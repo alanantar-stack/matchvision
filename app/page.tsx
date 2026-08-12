@@ -50,7 +50,7 @@ const plans = [
   },
 ];
 
-const sports = ["Básquet", "Vóley", "Hockey", "Béisbol"];
+const sports = ["Basketball", "Voley", "Hockey", "Baseball" ,"Rugby"];
 
 export default function Home() {
   return (
