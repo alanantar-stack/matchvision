@@ -404,7 +404,7 @@ export default function Home() {
     <div className="text-center">
 
       <h2 className="mt-4 text-4xl font-black tracking-tight md:text-5xl">
-        Descubrí cómo funciona MatchVision
+        FFFDescubrí cómo funciona MatchVision
       </h2>
 
       <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-black/60">
