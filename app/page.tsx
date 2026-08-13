@@ -419,25 +419,7 @@ export default function Home() {
 
     </div>
 
-    <div className="mt-14 overflow-hidden rounded-[2rem] shadow-2xl shadow-black/15 ring-1 ring-black/10">
-
-      <video
-        autoPlay
-        muted
-        loop
-        playsInline
-        controls
-        preload="metadata"
-        poster="/poster.jpg"
-        className="block aspect-video w-full object-cover"
-      >
-        <source src="/demo.mp4" type="video/mp4" />
-        Tu navegador no soporta video HTML5.
-      </video>
-
-    </div>
-
-    <div className="mt-10 grid gap-5 md:grid-cols-4">
+     <div className="mt-10 grid gap-5 md:grid-cols-4">
 
       <div className="rounded-3xl bg-[#f8faf8] p-6 ring-1 ring-black/5">
         <p className="text-3xl">📹</p>
